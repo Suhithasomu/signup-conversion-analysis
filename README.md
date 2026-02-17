@@ -72,7 +72,7 @@ ORDER BY device_type, week_number;
 
 ## Dashboard
 [View Interactive Tableau Dashboard](#) 
-[ Add your Tableau Public link here!](https://public.tableau.com/app/profile/suhitha.reddy.somu/viz/SignupConversionAnalysis-Project/Dashboard1)
+(https://public.tableau.com/app/profile/suhitha.reddy.somu/viz/SignupConversionAnalysis-Project/Dashboard1)
 
 ## Contact
 https://www.linkedin.com/in/suhitha-somu/
