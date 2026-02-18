@@ -14,7 +14,7 @@ try:
         host='localhost',
         database='signup_analysis',
         user='root',
-        password='Chaitrik@0109'  # If you have a password, put it here in quotes
+        password='abc@123'  # If you have a password, put it here in quotes
     )
     
     if connection.is_connected():
